@@ -1,4 +1,4 @@
-Husky
+Husky (with Yan Xiao's changes)
 =======
 
 [![Build Status](https://travis-ci.org/husky-team/husky.svg?branch=master)](https://travis-ci.org/husky-team/husky)
